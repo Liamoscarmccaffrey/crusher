@@ -1,0 +1,2 @@
+o9 = "https://o9solutions.com/post-sitemap.xml"
+anaplan = "https://www.anaplan.com/blog.xml"
